@@ -1,0 +1,53 @@
+_repo: Les-louanges-de-la-Folie-Traicte-fort-plaisant-en-forme-de-paradoxe-traduict-d-Italien-en-Fra__62007
+_version: 0.0.1
+contributor:
+  dubious_authors:
+  - agent_name: Albergati, Vianesio
+    gutenberg_agent_id: '51732'
+    url: http://www.gutenberg.org/2009/agents/51732
+  - agent_name: Persio, Ascanio
+    gutenberg_agent_id: '51733'
+    url: http://www.gutenberg.org/2009/agents/51733
+  - agent_name: Landi, Ortensio
+    aliases:
+    - Philalethes, Polytopiensis
+    - Lando, Ortensio
+    - Lando, Hortensio
+    gutenberg_agent_id: '47741'
+    url: http://www.gutenberg.org/2009/agents/47741
+    wikipedia: https://it.wikipedia.org/wiki/Ortensio_Lando
+  translator:
+    agent_name: Du Thier, Jean
+    aliases:
+    - Thier, Jean du
+    - Duthier, Jean
+    - Thier, Jehan du
+    deathdate: 1559
+    gutenberg_agent_id: '51726'
+    url: http://www.gutenberg.org/2009/agents/51726
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Jean_du_Thier
+    - https://en.wikipedia.org/wiki/Jean_du_Thiers
+description:
+- 'Translated and adapted from: La pazzia.'
+- Variously attributed to Vianesio Albergati, Ascanio Persio, and Ortensio Lando.
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Philosophie, Religion et Morale
+gutenberg_issued: '2020-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62007'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Paradoxes -- Early works to 1800'
+- !lcsh 'Italian literature -- Translations into French'
+- !lcsh 'Folly -- Early works to 1800'
+- GITenberg
+title: "Les louanges de la Folie\r\nTraicté fort plaisant en forme de paradoxe, traduict\
+  \ d'Italien en François par feu messire Jehan du Thier"
+url: http://www.gutenberg.org/ebooks/62007
