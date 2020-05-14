@@ -28,9 +28,14 @@ contributor:
     wikipedia:
     - https://fr.wikipedia.org/wiki/Jean_du_Thier
     - https://en.wikipedia.org/wiki/Jean_du_Thiers
+covers:
+- cover_type: archival
+  image_path: 62007-h/images/cover.jpg
 description:
 - 'Translated and adapted from: La pazzia.'
 - Variously attributed to Vianesio Albergati, Ascanio Persio, and Ortensio Lando.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62007#Les-louanges-de-la-Folie-Traicte-fort-plaisant-en-forme-de-paradoxe-traduict-d-Italien-en-Fra_
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Philosophie, Religion et Morale
